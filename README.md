@@ -1,1 +1,1 @@
-# JavaScript-ma3
+This is for school assignment
