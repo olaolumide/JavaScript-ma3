@@ -1,0 +1,49 @@
+JavaScript MA03
+----------------
+Level 2
+
+1. In your own words, describe what JavaScript Code Style is.
+	Javascript code style is simply the way or attitude adopted to writing codes in Javascript. 
+	Javascript ingeneral allows developers to adopt their own code convention that suite them.
+
+
+2. What is a Regular Expression?
+	Regular expression is a specific way a developer want data or information to be presented.
+	It is simply a pattern described by developer to match character combination for demanded 
+	or give information. Its the use of character combination followed by a method to present 
+	or demand information.
+
+3. What does the .random() method do?
+	The .random method or function is used for rounding decimal numbers or floating
+	numbers to nearest-even number.
+
+4. What does the .sort() method do?
+	The .sort method is invocked to re- arange an array or elements in an array. This method .sort, 
+	can be dependent on the ".compare" method to achieve a desired re- arangement from the .sort functon.
+	The . sort method does not keep the original array sorted.
+
+5. What does the .reverse() method do?
+	When .reverse method is invocked on an object with an array property, it reverses the array elements by 
+	making the first array element becomes last and the last element becomes first.
+
+6. List two examples of bad JavaScript code.
+	The equality signs (=, == and ===) can give code unwanted result if the right one is not used.
+	The second bad Javascript code is "Blockless Statement" which is without the curly braces.
+
+7. What data types can a JSON object contain?
+	JSON data type must only contain :
+	A string
+	A number
+	A boolean
+	An object; that is JSON object.
+	An array
+	null
+
+8. What is minifying JavaScript Code?
+	Minifying Javascript code is cleaning up codes by removing part of the code (characters) that is not contributing
+	to functionality of the code and will not affect operation of the codes.
+
+
+9. What is a global variable?
+	Global variable is simply any variable with endless scope and accessible anywhere in a program. Its scope is global
+	and it value can easily be changed anywhere in the program.
